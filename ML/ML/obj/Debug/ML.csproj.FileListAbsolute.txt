@@ -1,0 +1,16 @@
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ML.exe.config
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ML.exe
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ML.pdb
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.csprojAssemblyReference.cache
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.Form1.resources
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.Properties.Resources.resources
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.csproj.GenerateResource.cache
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.exe
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.pdb
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.dll
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.pdb
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.xml
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\fawzy ahmed\source\repos\ML\ML\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\fawzy ahmed\source\repos\ML\ML\obj\Debug\ML.csproj.CopyComplete
